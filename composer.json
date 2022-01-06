@@ -1,0 +1,13 @@
+{
+    "name": "p4dev/erp-flex-sdk",
+    "description": "SDK para API ERPFlex.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Augusto",
+            "email": "rafael@p4dev.com.br"
+        }
+    ],
+    "require": {}
+}
